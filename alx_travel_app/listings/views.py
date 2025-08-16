@@ -11,7 +11,6 @@ from .models import Listing, Booking, Payment
 from .serializers import ListingSerializer, BookingSerializer
 from .tasks import send_payment_confirmation_email
 
-
 # ----------------------------
 # Helper function for Chapa
 # ----------------------------
