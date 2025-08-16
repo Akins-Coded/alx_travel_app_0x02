@@ -37,15 +37,9 @@ ALX Travel App is a Django-based travel booking platform that allows users to br
 
 ---
 
-## **Installation & Setup**
 
-### **1. Clone the repository**
 
-```bash
-git clone https://github.com/yourusername/alx_travel_app.git
-cd alx_travel_app
-
-# . API Endpoints
+###  **API Endpoints**
 Endpoint	Method	Description
 /listings/	GET/POST	List or create listings
 /listings/<id>/	GET/PUT/DELETE	Retrieve, update, delete listing
